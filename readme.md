@@ -1,10 +1,10 @@
 # welcome to paper reading
 ![img](https://avatars0.githubusercontent.com/u/16485399?s=400&u=7fdb811cbb605695545b366128bb663a3d72b6bf&v=4)
 ## papers in reading
-* [ ] YoutubeDNN `Deep Neural Networks for YouTube Recommendations.pdf`
-* [ ] Item CF `Amazon.com Recommendations Item-to-Item Collaborative Filtering.pdf`
-* [ ] FM `Factorization Machines.pdf` 
-* [ ] FFM `Field-aware Factorization Machines for CTR Prediction`
+* [x] YoutubeDNN `Deep Neural Networks for YouTube Recommendations.pdf`
+* [x] Item CF `Amazon.com Recommendations Item-to-Item Collaborative Filtering.pdf`
+* [x] FM `Factorization Machines.pdf` 
+* [x] FFM `Field-aware Factorization Machines for CTR Prediction`
 * [ ] LS-PLM `Learning Piece-wise Linear Models from Large Scale Data for Ad Click Prediction` 
 * [ ] facebook gbdt feature `Practical Lessons from Predicting Clicks on Ads at Facebook.pdf`
 * [ ] 综述 `Deep Learning based Recommender System- A Survey and New Perspectives.pdf`
@@ -24,6 +24,7 @@
 * [ ] 在线离线评估 `Predictive Model Performance- Offline and Online Evaluations.pdf`
 * [ ] MMR `The_Use_MMR_Diversity_Based_LTMIR_1998.pdf`
 * [ ] DSSM `Learning Deep Structured Semantic Models for Web Search using Clickthrough Data`
+* [ ] `airwise Multi-Layer Nets for Learning Distributed Representation of Multi-field Categorical Data`
 
 
 ## about git lfs
